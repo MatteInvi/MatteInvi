@@ -57,7 +57,7 @@
       </td>
       <td width="33%" align="center">
         <h3>🍕 La Mia Pizzeria</h3>
-        <p>Gestione del listino pizze con categorie, prezzi e informazioni dettagliate.</p>
+        <p>Gestione del listino pizze con, prezzi, offerte, ingredienti e informazioni dettagliate.</p>
         <p><b>Tecnologie:</b><br>Java · Spring Boot · Thymeleaf · MySQL</p>
          <img src="/index.png" width="250" style="border-radius:10px;"/>    
         <a href="https://github.com/MatteInvi/la-mia-pizzeria">
