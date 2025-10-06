@@ -37,7 +37,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center">
+      <td width="33%" style="position:absolute; top:0px;" align="center">
         <h3>🎉 myEvents</h3>
         <p>Gestione eventi privati con inviti, partecipanti, e condivisione foto.</p>
         <p><b>Tecnologie:</b><br>Java · Spring Boot · Spring Security · Thymeleaf · MySQL</p>
@@ -46,7 +46,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteInvi&repo=myEvents&theme=radical" />
         </a>
       </td>
-      <td width="33%" align="center">
+      <td width="33%" style="position:absolute; top:0px;" align="center">
         <h3>🎟️ Ticket Platform</h3>
         <p>Piattaforma per la gestione dei ticket di assistenza con ruoli e dashboard.</p>
         <p><b>Tecnologie:</b><br>Java · Spring Boot · Spring Security · Thymeleaf · MySQL</p>
@@ -55,7 +55,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteInvi&repo=ticket-platform&theme=radical" />
         </a>
       </td>
-      <td width="33%" align="center">
+      <td width="33%" style="position:absolute; top:0px;" align="center">
         <h3>🍕 La Mia Pizzeria</h3>
         <p>Gestione del listino pizze con, prezzi, offerte, ingredienti e informazioni dettagliate.</p>
         <p><b>Tecnologie:</b><br>Java · Spring Boot · Thymeleaf · MySQL</p>
