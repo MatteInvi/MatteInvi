@@ -3,6 +3,16 @@
 💻 Sviluppatore Web Fullstack 
 
 ---
+## Su di me
+
+Sono uno sviluppatore full-stack con una solida base in Java e Spring Boot, 
+appassionato nel creare applicazioni web complete e funzionali. 
+Mi piace curare sia la logica back-end che l’esperienza utente front-end, 
+utilizzando tecnologie come HTML, CSS, JavaScript e Bootstrap. 
+Attraverso i miei progetti personali sperimento soluzioni pratiche e strutturate, 
+migliorando costantemente le mie competenze.
+
+---
 ## 📫 Contatti
 <p>
   <a href="https://www.linkedin.com/in/matteo-invidia-009953349" target="_blank">
