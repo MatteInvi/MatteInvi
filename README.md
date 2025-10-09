@@ -3,7 +3,7 @@
 💻 Sviluppatore Web Fullstack 
 
 ---
-## Su di me
+## 👨‍💻 Su di me
 
 Sono uno sviluppatore full-stack con una solida base in Java e Spring Boot, 
 appassionato nel creare applicazioni web complete e funzionali. 
